@@ -29,14 +29,14 @@ Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
 Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese
 Favourite programming languages | Haskell, OCaml
-Caveats | ADHD(DX), GAD(DX), Possible psychosis)
+Caveats | ADHD(DX), GAD(DX), Possible psychosis
 
 ## Timeline
 
 - [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
 - [x] Cyphanese Team member
 - [x] Virtual World Alubis member (geography)
-- [x] **2019**: In JOL(Japanese Olympiad in Lunguistics), win a prize
+- [x] **2019**: In JOL(Japanese Olympiad in Lunguistics), won a prize
 
 ## Twitter accounts
  ID | Screen name | Proper name 
