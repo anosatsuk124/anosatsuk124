@@ -35,7 +35,7 @@ Caveats | ADHD(DX), GAD(DX), Possible psychosis
 
 - [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
 - [x] Cyphanese Team leader
-- [x] Virtual World Alubis member (geography)
+- [x] Virtual World Alubis member (History of thoughts and science)
 - [x] **2019**: In JOL(Japanese Olympiad in Lunguistics), won a prize
 
 ## Twitter accounts
