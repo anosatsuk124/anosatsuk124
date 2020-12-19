@@ -27,7 +27,7 @@ Alternative name | あの, ぬてむま, ano
 DOB | 2003-01-24
 Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
-Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese
+Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc.
 Favourite programming languages | Haskell, OCaml
 Caveats | ADHD(DX), GAD(DX), Possible psychosis
 
