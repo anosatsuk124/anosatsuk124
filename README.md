@@ -28,7 +28,7 @@ DOB | 2003-01-24
 Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
 Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc.
-Favourite programming languages | Haskell, OCaml
+Favourite programming languages | Haskell, OCaml, R
 Caveats | ADHD(DX), GAD(DX), Possible psychosis
 
 ## Timeline
@@ -51,4 +51,4 @@ Caveats | ADHD(DX), GAD(DX), Possible psychosis
 Domain name | Status(es) | Description
 ------------|------------|-------------
 levome-dol.com | At home | Using for private
-menhera.org | Route 53 / AWS | Menhera.org organisational main domain
+menhera.org | Route 53 / AWS | Menhera.org organizational main domain
