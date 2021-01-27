@@ -28,7 +28,7 @@ DOB | 2003-01-24
 Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
 Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc.
-Favourite programming languages | Haskell, OCaml, R, Purescript
+Favourite programming languages | Haskell, OCaml, R, Purescript, Common Lisp, Hylang
 Caveats | ADHD(DX), GAD(DX), Possible psychosis
 
 ## Timeline
