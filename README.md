@@ -52,3 +52,6 @@ Domain name | Status(es) | Description
 ------------|------------|-------------
 levome-dol.com | At home | Using for private
 menhera.org | Route 53 / AWS | Menhera.org organizational main domain
+
+E-mail: <anosatsuk124@gmail.com>
+Pubkey: https://github.com/anosatsuk124/Openpgp-pubkey
