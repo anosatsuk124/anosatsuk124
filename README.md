@@ -24,6 +24,7 @@ Attribute | Value
 ----------|-------
 Generic name | ゐてるま (Japanese Pronounciation: いてるま, English: Viterum, /vɪtɛɹʌm/), etc.
 Alternative name | あの, ぬてむま, ano
+Registered name | 秋葉 沙都季(Satsuki Akiba)
 DOB | 2003-01-24
 Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
