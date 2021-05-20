@@ -56,4 +56,5 @@ menhera.org | Route 53 / AWS | Menhera.org organizational main domain
 
 ## Contacts
 Email | E2EE-pubkey
+------|-------------
 <anosatsuk124@gmail.com> | https://github.com/anosatsuk124/Openpgp-pubkey
