@@ -7,10 +7,7 @@
 ![Language: tpi](https://img.shields.io/badge/lang-tpi-purple)
 ![Discord: ゐてるま#5750](https://img.shields.io/static/v1?label=Discord&message=ゐてるま%235750&color=ca97bf)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124&=roff,html)](https://github.com/anuraghazra/github-readme-stats)
 
 # 日本語
 
