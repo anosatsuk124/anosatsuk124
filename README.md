@@ -52,7 +52,7 @@ Attribute | Value
 ----|-------------|-------------
 [1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
 [1226033549901328385](https://twitter.com/unstableviterum) | unstableviterum | 界隈鍵垢
-[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先|
+[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先
 *** | *** | 真の鍵
 *** | *** | 薬理垢
 
@@ -106,7 +106,7 @@ Favourite programming languages | Haskell, OCaml, R, Purescript, Common Lisp, Hy
 ----|-------------|-------------
 [1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
 [1226033549901328385](https://twitter.com/unstableviterum) | unstableviterum | 界隈鍵垢
-[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先| 業務用アカウント——真空の，机の上．
+[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先
 *** | *** | 真の鍵
 *** | *** | 薬理垢
 
