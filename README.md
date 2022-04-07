@@ -7,6 +7,11 @@
 ![Language: tpi](https://img.shields.io/badge/lang-tpi-purple)
 ![Discord: ゐてるま#5750](https://img.shields.io/static/v1?label=Discord&message=ゐてるま%235750&color=ca97bf)
 
+# Projects in progress
+- Works db (Co-developer, written with Rust. Web app about the meta-datas of musics ) [team-vinu/works-db](https://github.com/team-vinu/works-db)
+- x86 assembler from scrach (written in Rust) [anosatsuk124/viterum-asm-rs](https://github.com/anosatsuk124/viterum-asm-rs)
+- Toy x86 C-compiler from scratch (written in Rust) [anosatsuk124/viterum-cc-rs](https://github.com/anosatsuk124/viterum-cc-rs)
+
 # 日本語
 
 ### 宗教観と哲学的思想
