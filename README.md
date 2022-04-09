@@ -11,7 +11,7 @@
 - Works db (Co-developer, written with Rust. Web app about the meta-datas of musics ) [team-vinu/works-db](https://github.com/team-vinu/works-db)
 - x86 assembler from scrach (written in Rust) [anosatsuk124/viterum-asm-rs](https://github.com/anosatsuk124/viterum-asm-rs)
 - Toy x86 C-compiler from scratch (written in Rust) [anosatsuk124/viterum-cc-rs](https://github.com/anosatsuk124/viterum-cc-rs)
-- SLDL (Strucetured License Description Language) reference implementation with Rust [anosatsuk124/SLDL](https://github.com/anosatsuk124/SLDL)
+- SLDL (Strucetured License Description Language) reference implementation written in Rust [anosatsuk124/SLDL](https://github.com/anosatsuk124/SLDL)
 
 # 日本語
 
