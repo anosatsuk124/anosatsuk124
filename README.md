@@ -19,7 +19,7 @@
 
 - [Menhera.org](https://www.menhera.org)
 - [VWAlubis](https://pianists.github.io/PsMemoBlog/conworld/)
-- [Cyphanese Project Team](https://github.com/anosatsuk124/Cyphanese)
+- [Cyphanese Project Team](https://github.com/anosatsuk124/Cyphanese) ([Old repository](https://github.com/anosatsuk124/Cyphanese-archived))
 
 ### 興味のある学問
 
