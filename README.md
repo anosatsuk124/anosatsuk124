@@ -39,7 +39,7 @@ Attribute | Value
 母語 | 日本語北海道札幌方言
 その他の言語 | 英語、中国語
 既習言語 | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, 漢文, etc.
-使えるプログラミング言語 | Haskell, R, Purescript, Hylang, Rust, Haxe, Python
+使えるプログラミング言語 | Haskell, R, Purescript, Hylang, Rust, Haxe, Python, Typescript
 好きなプログラミング言語 | Haskell, R, Purescript, Common Lisp, Hylang, Rust, Haxe, OCaml, X86-assembly
 
 ## タイムライン
@@ -92,7 +92,7 @@ DOB | 2003-01-24
 Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
 Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc.
-Skilled programming languages | Haskell, R, Purescript, Hylang, Rust, Haxe, Python 
+Skilled programming languages | Haskell, R, Purescript, Hylang, Rust, Haxe, Python, Typescript
 Favourite programming languages | Haskell, R, Purescript, Common Lisp, Hylang, Rust, Haxe, OCaml, X86-assembly
 
 ## Timeline
