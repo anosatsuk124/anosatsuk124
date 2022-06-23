@@ -12,6 +12,7 @@
 - x86 assembler from scrach (written in Rust) [anosatsuk124/viterum-asm-rs](https://github.com/anosatsuk124/viterum-asm-rs)
 - Toy x86 C-compiler from scratch (written in Rust) [anosatsuk124/viterum-cc-rs](https://github.com/anosatsuk124/viterum-cc-rs)
 - SLDL (Structured License Description Language) reference implementation written in Rust [anosatsuk124/SLDL](https://github.com/anosatsuk124/SLDL)
+- Viteditor-rs is flexibly (using with Terminal UI, Web UI or etc.) and extensible interfaced simple text editor written in Rust [anosatsuk124/viteditor-rs](https://github.com/anosatsuk124/viteditor-rs)
 
 # 日本語
 
