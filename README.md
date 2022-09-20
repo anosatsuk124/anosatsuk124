@@ -13,6 +13,7 @@
 - Toy x86 C-compiler from scratch (written in Rust) [anosatsuk124/viterum-cc-rs](https://github.com/anosatsuk124/viterum-cc-rs)
 - SLDL (Structured License Description Language) reference implementation written in Rust [anosatsuk124/SLDL](https://github.com/anosatsuk124/SLDL)
 - Viteditor-rs is flexibly (using with Terminal UI, Web UI or etc.) and extensible interfaced simple text editor written in Rust [anosatsuk124/viteditor-rs](https://github.com/anosatsuk124/viteditor-rs)
+- Binrobot is a game for any language and its programmer. It is inspired by Robocode [anosatsuk124/binrobot](https://github.com/anosatsuk124/binrobot)
 
 # 日本語
 
