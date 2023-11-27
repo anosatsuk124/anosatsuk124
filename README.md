@@ -7,7 +7,13 @@
 ![Language: tpi](https://img.shields.io/badge/lang-tpi-purple)
 ![Discord: ゐてるま#5750](https://img.shields.io/static/v1?label=Discord&message=ゐてるま%235750&color=ca97bf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![anosatsuk124's GitHub stats](https://github-readme-stats.vercel.app/api?username=anosatsuk124&show_icons=true&rank_icon=github&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![anosatsuk124's GitHub stats](https://github-readme-stats.vercel.app/api?username=anosatsuk124&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124&layout=donut&langs_count=10&theme=dracula&#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124&layout=donut&langs_count=10&#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects in progress
 
