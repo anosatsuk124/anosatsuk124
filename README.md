@@ -7,7 +7,7 @@
 ![Language: tpi](https://img.shields.io/badge/lang-tpi-purple)
 ![Discord: ゐてるま#5750](https://img.shields.io/static/v1?label=Discord&message=ゐてるま%235750&color=ca97bf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anosatsuk124&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects in progress
 
