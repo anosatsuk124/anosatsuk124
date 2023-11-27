@@ -1,5 +1,6 @@
 # ゐてるま
 
+[![wakatime](https://wakatime.com/badge/user/018c101f-37ef-4a09-ba41-30c2ab38951b.svg)](https://wakatime.com/@018c101f-37ef-4a09-ba41-30c2ab38951b)
 ![Language: ja](https://img.shields.io/badge/lang-ja-pink)
 ![Language: en](https://img.shields.io/badge/lang-en-purple)
 ![Language: zh](https://img.shields.io/badge/lang-zh-purple)
