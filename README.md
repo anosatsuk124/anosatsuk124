@@ -44,7 +44,7 @@
 | Other languages                 | English, Chinese                                                                                    |
 | Learned languages               | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc. |
 | Skilled programming languages   | Haskell, R, Purescript, Hylang, Rust, Haxe, Python, Typescript, C#, Nim, C++                                  |
-| Favourite programming languages | Haskell, R, Purescript, Common Lisp, Hylang, Rust, Haxe, OCaml, X86-assembly, webassembly, Nim           |
+| Favourite programming languages | Haskell, R, Purescript, Common Lisp, Hylang, Rust, Haxe, OCaml, x86 assembly, webassembly, Nim           |
 
 ## Timeline
 
@@ -53,14 +53,6 @@
 - [x] A Virtual World Alubis member (History of thoughts and science)
 - [x] **2019**: In JOL(Japanese Olympiad in Linguistics), won a prize
 - [x] **2023-**: An executive director at Human-life Information Platforms Institute a.k.a. **Menhera.org**
-
-## Twitter accounts
-
-| ID                                                    | Screen name | Proper name |
-| ----------------------------------------------------- | ----------- | ----------- |
-| [1163505248649928704](https://twitter.com/viterum_24) | viterum_24  | 表垢        |
-| \*\*\*                                                | \*\*\*      | 真の鍵      |
-| \*\*\*                                                | \*\*\*      | 薬理垢      |
 
 ## Related DNS domains
 
@@ -105,7 +97,7 @@
 | その他の言語             | 英語、中国語                                                                                 |
 | 既習言語                 | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, 漢文, etc. |
 | 使えるプログラミング言語 | Haskell, R, Purescript, Hylang, Rust, Haxe, Python, Typescript, C#, Nim, C++                           |
-| 好きなプログラミング言語 | Haskell, R, Purescript, Common Lisp, Hylang, Rust, Haxe, OCaml, X86-assembly, webassembly, Nim    |
+| 好きなプログラミング言語 | Haskell, R, Purescript, Common Lisp, Hylang, Rust, Haxe, OCaml, x86 assembly, webassembly, Nim    |
 
 ## タイムライン
 
@@ -115,13 +107,6 @@
 - [x] **2019**: 日本言語学オリンピック入賞
 - [x] **2023-**: 業務執行理事 (生活情報基盤研究機構, Menhera.org)
 
-## Twitter アカウント
-
-| ID                                                    | Screen name | Proper name |
-| ----------------------------------------------------- | ----------- | ----------- |
-| [1163505248649928704](https://twitter.com/viterum_24) | viterum_24  | 表垢        |
-| \*\*\*                                                | \*\*\*      | 真の鍵      |
-| \*\*\*                                                | \*\*\*      | 薬理垢      |
 
 ## 関連 DNS ドメイン
 
