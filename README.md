@@ -48,11 +48,11 @@
 
 ## Timeline
 
-- [x] A Preparatory committee member of Human-life Information Platforms Institute a.k.a. **Menhera.org**
+- [x] A Preparatory committee member of Human-life Information Platforms Institute
 - [x] The Cyphanese Team lead
 - [x] A Virtual World Alubis member (History of thoughts and science)
 - [x] **2019**: In JOL(Japanese Olympiad in Linguistics), won a prize
-- [x] **2023-**: An executive director at Human-life Information Platforms Institute a.k.a. **Menhera.org**
+- [x] **2023-**: An executive director at Human-life Information Platforms Institute
 
 ## Related DNS domains
 
@@ -101,11 +101,11 @@
 
 ## タイムライン
 
-- [x] 法人設立準備委 (生活情報基盤研究機構, Menhera.org)
+- [x] 法人設立準備委 (生活情報基盤研究機構)
 - [x] Cyphanese チームリーダ
 - [x] 仮想世界 Alubis メンバ (思想史/科学史分野)
 - [x] **2019**: 日本言語学オリンピック入賞
-- [x] **2023-**: 業務執行理事 (生活情報基盤研究機構, Menhera.org)
+- [x] **2023-**: 業務執行理事 (生活情報基盤研究機構)
 
 
 ## 関連 DNS ドメイン
