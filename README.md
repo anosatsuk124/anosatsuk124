@@ -36,8 +36,6 @@
 
 | Attribute                       | Value                                                                                               |
 | ------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Generic name                    | ゐてるま (Japanese Pronounciation: いてるま, English: Viterum, /vɪtɛɹʌm/), etc.                     |
-| Alternative name                |                                                                                                     |
 | Registered name                 | 秋葉 沙都季 (Satsuki Akiba)                                                                         |
 | DOB                             | 2003-01-24                                                                                          |
 | Native speaker of               | Japanese language, Sapporo, Hokkaido dialect                                                        |
@@ -60,7 +58,6 @@
 | -------------- | ---------------- | -------------------------------------- |
 | levome-dol.com | At home          | Using for private                      |
 | levome-dol.com | At home in Tokyo | Using for private                      |
-| menhera.org    | Route 53 / AWS   | Menhera.org organizational main domain |
 
 ## Contacts
 
@@ -71,12 +68,6 @@
 ---
 
 # 日本語
-
-## 所属
-
-- [Menhera.org](https://www.menhera.org)
-- [VWAlubis](https://pianists.github.io/PsMemoBlog/conworld/)
-- [Cyphanese Project Team](https://github.com/anosatsuk124/Cyphanese) ([Old repository](https://github.com/anosatsuk124/Cyphanese-archived))
 
 ## 興味のある分野
 
@@ -89,8 +80,6 @@
 
 | Attribute                | Value                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
-| 汎用的名前               | ゐてるま (Japanese Pronounciation: いてるま, English: Viterum, /vɪtɛɹʌm/), etc.              |
-| その他の名前             |                                                                                              |
 | 戸籍名                   | 秋葉 沙都季 (Satsuki Akiba)                                                                  |
 | 生年月日                 | 2003-01-24                                                                                   |
 | 母語                     | 日本語北海道札幌方言                                                                         |
@@ -114,7 +103,6 @@
 | -------------- | ------------------- | -------------------------------------- |
 | levome-dol.com | At home in Hokkaido | Using for private                      |
 | levome-dol.com | At home in Tokyo    | Using for private                      |
-| menhera.org    | Route 53 / AWS      | Menhera.org organizational main domain |
 
 ## 連絡先
 
