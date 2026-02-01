@@ -4,7 +4,6 @@
 ![Language: zh](https://img.shields.io/badge/lang-zh-purple)
 ![Language: jbo](https://img.shields.io/badge/lang-jbo-purple)
 ![Language: tpi](https://img.shields.io/badge/lang-tpi-purple)
-![Discord: ゐてるま#5750](https://img.shields.io/static/v1?label=Discord&message=ゐてるま%235750&color=ca97bf)
 
 [![anosatsuk124's GitHub stats](https://github-readme-stats.vercel.app/api?username=anosatsuk124&show_icons=true&rank_icon=github&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
